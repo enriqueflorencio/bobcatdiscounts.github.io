@@ -1,8 +1,7 @@
 {
-    "firstName": "Rack",
-    "lastName": "jackson",
-    "gender": "man",
-    "age": 24,
+    "restaurantName": "Little Oven",
+    "restaurantImageURL": "https://www.facebook.com/littleovenpizza/photos/a.883891785021009/957698794306974/",
+    "foodImageURL": "https://ibb.co/6Xbgk4D",
     "address": {
         "streetAddress": "126 Udhna",
         "city": "san jone",
