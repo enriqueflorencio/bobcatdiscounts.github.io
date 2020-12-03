@@ -1,14 +1,10 @@
 {
     "restaurantName": "Little Oven",
-    "restaurantImageURL": "https://www.facebook.com/littleovenpizza/photos/a.883891785021009/957698794306974/",
-    "foodImageURL": "https://ibb.co/6Xbgk4D",
-    "address": {
-        "streetAddress": "126 Udhna",
-        "city": "san jone",
-        "state": "CA",
-        "postalCode": "394221"
-    },
-    "phoneNumbers": [
-        { "type": "home", "number": "7383627627" }
-    ]
+    "restaurantImageURL": "https://i.imgur.com/DSozZh9.png",
+    "foodImageURL": "https://i.imgur.com/vcGD3B7.png",
+    "address": "433 W Main St, Merced, CA 95340",
+    "phoneNumber": "209-233-9829",
+    "percentage": "10%",
+    "description": "10% discount offered for students."
+
 }
