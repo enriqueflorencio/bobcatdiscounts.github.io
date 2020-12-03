@@ -1,10 +1,11 @@
 {
-    "restaurantName": "Little Oven",
-    "restaurantImageURL": "https://i.imgur.com/DSozZh9.png",
-    "foodImageURL": "https://i.imgur.com/vcGD3B7.png",
+    "businesstName": "Little Oven",
+    "businessImageURL": "https://i.imgur.com/DSozZh9.png",
+    "itemImageURL": "https://i.imgur.com/vcGD3B7.png",
     "address": "433 W Main St, Merced, CA 95340",
     "phoneNumber": "209-233-9829",
     "percentage": "10%",
-    "description": "10% discount offered for students."
+    "description": "10% discount offered for students.",
+    "category": "Restaurant"
 
 }
