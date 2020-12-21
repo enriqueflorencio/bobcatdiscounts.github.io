@@ -3,7 +3,7 @@
     "businesses": [
       {
         "businessName": "Little Oven",
-        "businessImageURL": "https://i.imgur.com/DSozZh9.png",
+        "businessImageURL": "https://i.imgur.com/gjpLOCx.png",
         "itemImageURL": "https://i.imgur.com/vcGD3B7.png",
         "address": "433 W Main St, Merced, CA 95340",
         "phoneNumber": "209-233-9829",
@@ -14,7 +14,7 @@
       {
         "businessName": "Bella Luna Bistro",
         "businessImageURL": "https://i.imgur.com/MwjdbjS.jpg",
-        "itemImageURL": "https://i.imgur.com/MwjdbjS.jpg",
+        "itemImageURL": "https://i.imgur.com/UJzEYFG.jpg",
         "address": "350 W Main St, Merced, CA 95340",
         "phoneNumber": "209-383-1700",
         "percentage": "10%",
