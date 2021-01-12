@@ -24,6 +24,18 @@
         "percentage": "10%",
         "description": "10% Off Your Order",
         "category": "Restaurant"
+      },
+      {
+        "businessName": "Agaves Mexican Grill",
+        "businessImageURL": "https://i.imgur.com/lDMqcqo.png",
+        "itemImageURL": "https://i.imgur.com/629OWck.png",
+        "address": "731 E Yosemite Ave #D, Merced, CA 95340",
+        "latitude": 37.332660,
+        "longitude": -120.461260,
+        "phoneNumber": "209-580-4662",
+        "percentage": "10%",
+        "description": "10% Off Your Order",
+        "category": "Restaurant"
       }
     ]
   }
