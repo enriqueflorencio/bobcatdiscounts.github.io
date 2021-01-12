@@ -48,6 +48,18 @@
         "percentage": "10%",
         "description": "10% Off Your Order",
         "category": "Restaurant"
+      },
+      {
+        "businessName": "The Branding Iron Restaurant",
+        "businessImageURL": "https://i.imgur.com/06oFs5M.jpg",
+        "itemImageURL": "https://i.imgur.com/kD5KHoz.png",
+        "address": "640 16th St, Merced, CA",
+        "latitude": 37.301020,
+        "longitude": -120.486460,
+        "phoneNumber": "209-722-1822",
+        "percentage": "10%",
+        "description": "10% Off Your Order",
+        "category": "Restaurant"
       }
     ]
   }
