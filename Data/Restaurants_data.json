@@ -36,6 +36,18 @@
         "percentage": "10%",
         "description": "10% Off Your Order",
         "category": "Restaurant"
+      },
+      {
+        "businessName": "Bar-B-Q Pit",
+        "businessImageURL": "https://i.imgur.com/ugpFm6l.png",
+        "itemImageURL": "https://i.imgur.com/wZ0yuTu.png",
+        "address": "1720 G St, Merced, CA",
+        "latitude": 37.298880,
+        "longitude": -120.475340,
+        "phoneNumber": "209-383-2558",
+        "percentage": "10%",
+        "description": "10% Off Your Order",
+        "category": "Restaurant"
       }
     ]
   }
