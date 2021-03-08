@@ -26,18 +26,6 @@
           "category": "Dessert"
         },
         {
-          "businessName": "Deli Delicious",
-          "businessImageURL": "https://i.imgur.com/4AhBUYa.png",
-          "itemImageURL": "https://i.imgur.com/4AhBUYa.png",
-          "address": "570 W Olive Ave",
-          "latitude": 37.323140,
-          "longitude": -120.483540,
-          "phoneNumber": "209-455-7099",
-          "percentage": "10%",
-          "description": "10% Off Your Order",
-          "category": "Dessert"
-        },
-        {
           "businessName": "Coffee Bandits",
           "businessImageURL": "https://i.imgur.com/WdoYEvf.png",
           "itemImageURL": "https://i.imgur.com/WdoYEvf.png",

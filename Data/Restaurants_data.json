@@ -62,6 +62,18 @@
         "category": "Restaurants"
       },
       {
+        "businessName": "Thai Star",
+        "businessImageURL": "https://i.imgur.com/g6ZGyRk.png",
+        "itemImageURL": "https://i.imgur.com/g6ZGyRk.png",
+        "address": "57 W Alexander Ave",
+        "latitude": 37.3149871,
+        "longitude": -120.471046,
+        "phoneNumber": "209-725-1958",
+        "percentage": "10%",
+        "description": "10% Off Your Order",
+        "category": "Restaurants"
+      },
+      {
         "businessName": "Bar-B-Q Pit",
         "businessImageURL": "https://i.imgur.com/ugpFm6l.png",
         "itemImageURL": "https://i.imgur.com/wZ0yuTu.png",
