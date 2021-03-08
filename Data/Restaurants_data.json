@@ -11,7 +11,7 @@
         "phoneNumber": "209-233-9829",
         "percentage": "10%",
         "description": "10% Off Your Order",
-        "category": "Restaurant"
+        "category": "Restaurants"
       },
       {
         "businessName": "Bella Luna Bistro",
@@ -23,7 +23,7 @@
         "phoneNumber": "209-383-1700",
         "percentage": "10%",
         "description": "10% Off Your Order",
-        "category": "Restaurant"
+        "category": "Restaurants"
       },
       {
         "businessName": "Agaves Mexican Grill",
@@ -35,7 +35,7 @@
         "phoneNumber": "209-580-4662",
         "percentage": "10%",
         "description": "10% Off Your Order",
-        "category": "Restaurant"
+        "category": "Restaurants"
       },
       {
         "businessName": "Bar-B-Q Pit",
@@ -47,7 +47,7 @@
         "phoneNumber": "209-383-2558",
         "percentage": "10%",
         "description": "10% Off Your Order",
-        "category": "Restaurant"
+        "category": "Restaurants"
       },
       {
         "businessName": "The Branding Iron",
@@ -59,7 +59,7 @@
         "phoneNumber": "209-722-1822",
         "percentage": "10%",
         "description": "10% Off Your Order",
-        "category": "Restaurant"
+        "category": "Restaurants"
       }
     ]
   }
