@@ -60,6 +60,18 @@
           "percentage": "10%",
           "description": "10% Off Your Order",
           "category": "Dessert"
+        },
+        {
+          "businessName": "Fruta Loca",
+          "businessImageURL": "https://i.imgur.com/x2ywXlK.png",
+          "itemImageURL": "https://i.imgur.com/x2ywXlK.png",
+          "address": "3146 G St",
+          "latitude": 37.316501,
+          "longitude": -120.469429,
+          "phoneNumber": "209-325-4378",
+          "percentage": "10%",
+          "description": "10% Off Your Order",
+          "category": "Dessert"
         }
 
       ]
