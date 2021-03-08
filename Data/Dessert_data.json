@@ -14,6 +14,18 @@
           "category": "Dessert"
         },
         {
+          "businessName": "Sno-Crave",
+          "businessImageURL": "https://i.imgur.com/Hs7HBzP.png",
+          "itemImageURL": "https://i.imgur.com/Hs7HBzP.png",
+          "address": "1794 W Olive Ave",
+          "latitude": 37.3191146,
+          "longitude": -120.491340,
+          "phoneNumber": "209-626-1314",
+          "percentage": "10%",
+          "description": "10% Off Your Order",
+          "category": "Dessert"
+        },
+        {
           "businessName": "Nikkos Place",
           "businessImageURL": "https://i.imgur.com/sysODLQ.png",
           "itemImageURL": "https://i.imgur.com/sysODLQ.png",
