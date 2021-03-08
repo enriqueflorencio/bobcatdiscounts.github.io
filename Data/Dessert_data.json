@@ -5,7 +5,7 @@
           "businessName": "Yogolicious",
           "businessImageURL": "https://i.imgur.com/eZZdGwx.png",
           "itemImageURL": "https://i.imgur.com/MGBTgL3.png",
-          "address": "3110 R St B, Merced, CA",
+          "address": "3110 R St B",
           "latitude": 37.319700,
           "longitude": -120.486150,
           "phoneNumber": "209-384-9646",
@@ -26,10 +26,22 @@
           "category": "Dessert"
         },
         {
+          "businessName": "Deli Delicious",
+          "businessImageURL": "https://i.imgur.com/4AhBUYa.png",
+          "itemImageURL": "https://i.imgur.com/4AhBUYa.png",
+          "address": "570 W Olive Ave",
+          "latitude": 37.323140,
+          "longitude": -120.483540,
+          "phoneNumber": "209-455-7099",
+          "percentage": "10%",
+          "description": "10% Off Your Order",
+          "category": "Dessert"
+        },
+        {
           "businessName": "Coffee Bandits",
           "businessImageURL": "https://i.imgur.com/WdoYEvf.png",
           "itemImageURL": "https://i.imgur.com/WdoYEvf.png",
-          "address": "309 W Main St, Merced, CA",
+          "address": "309 W Main St",
           "latitude": 37.300400,
           "longitude": -120.480440,
           "phoneNumber": "209-383-1200",
