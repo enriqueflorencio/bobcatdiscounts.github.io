@@ -50,6 +50,18 @@
         "category": "Restaurants"
       },
       {
+        "businessName": "Turmeric",
+        "businessImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/MF1ebnFYqwpegVQd9lSJDg/o.jpg",
+        "itemImageURL": "https://s3-media0.fl.yelpcdn.com/bphoto/MF1ebnFYqwpegVQd9lSJDg/o.jpg",
+        "address": "731 E Yosemite Ave ste c",
+        "latitude": 37.332118,
+        "longitude": -120.461204,
+        "phoneNumber": "209-383-1900",
+        "percentage": "10%",
+        "description": "10% Off Your Order",
+        "category": "Restaurants"
+      },
+      {
         "businessName": "Bar-B-Q Pit",
         "businessImageURL": "https://i.imgur.com/ugpFm6l.png",
         "itemImageURL": "https://i.imgur.com/wZ0yuTu.png",
