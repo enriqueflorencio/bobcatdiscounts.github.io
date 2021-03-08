@@ -16,11 +16,23 @@
         {
           "businessName": "Nikkos Place",
           "businessImageURL": "https://i.imgur.com/eZZdGwx.png",
-          "itemImageURL": "https://i.imgur.com/AUI8Qfe.png",
+          "itemImageURL": "https://i.imgur.com/eZZdGwx.png",
           "address": "900 Loughborough Dr suite e, Merced, CA",
           "latitude": 37.323140,
           "longitude": -120.483540,
           "phoneNumber": "209-455-7099",
+          "percentage": "10%",
+          "description": "10% Off Your Order",
+          "category": "Dessert"
+        },
+        {
+          "businessName": "Coffee Bandits",
+          "businessImageURL": "https://i.imgur.com/eZZdGwx.png",
+          "itemImageURL": "https://i.imgur.com/WdoYEvf.png",
+          "address": "309 W Main St, Merced, CA",
+          "latitude": 37.300400,
+          "longitude": -120.480440,
+          "phoneNumber": "209-383-1200",
           "percentage": "10%",
           "description": "10% Off Your Order",
           "category": "Dessert"
