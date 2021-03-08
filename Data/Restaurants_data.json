@@ -30,9 +30,9 @@
         "businessImageURL": "https://i.imgur.com/4AhBUYa.png",
         "itemImageURL": "https://i.imgur.com/4AhBUYa.png",
         "address": "570 W Olive Ave",
-        "latitude": 37.323140,
-        "longitude": -120.483540,
-        "phoneNumber": "209-455-7099",
+        "latitude": 37.319221,
+        "longitude": 120.475639,
+        "phoneNumber": "209-724-0305",
         "percentage": "10%",
         "description": "10% Off Your Order",
         "category": "Dessert"
@@ -57,6 +57,18 @@
         "latitude": 37.298880,
         "longitude": -120.475340,
         "phoneNumber": "209-383-2558",
+        "percentage": "10%",
+        "description": "10% Off Your Order",
+        "category": "Restaurants"
+      },
+      {
+        "businessName": "J&R Tacos",
+        "businessImageURL": "https://i.imgur.com/jXE8y7G.png",
+        "itemImageURL": "https://i.imgur.com/629OWck.png",
+        "address": "731 E Yosemite Ave #D",
+        "latitude": 37.332660,
+        "longitude": -120.461260,
+        "phoneNumber": "209-580-4662",
         "percentage": "10%",
         "description": "10% Off Your Order",
         "category": "Restaurants"
